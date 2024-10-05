@@ -1,4 +1,5 @@
 {
+    "python.pythonPath": "/opt/homebrew/bin/python3",
     "criteria" : [
        "1. There are at least 2 Github commits",
        "2. All tests must pass. Pass rate should be 100 %",
