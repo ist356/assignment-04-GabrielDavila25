@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Gabriel Davila
+Sudent Email:  gdavil01@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+This assignment helped me learn how to use pandas and Streamlit together to build a simple dataset browser, which was pretty cool. I figured out how to let users upload different file types (CSV, Excel, JSON) and display specific columns based on their choices. The pandas part was familiar, but getting everything to work with Streamlit was new for me. I struggled a bit with setting up the filter feature. It was confusing to link the dropdowns to the right column and values dynamically, but after checking the Streamlit docs, I got the hang of it. Debugging was also a challenge because the tests didn’t help much, so I had to manually run parts of the code to see where things went wrong. I need to spend more time practicing how to work with Streamlit widgets and filtering data more smoothly. But overall, this was a good learning experience, and it made me more comfortable with building small, interactive apps.
